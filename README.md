@@ -1,4 +1,4 @@
-# PHP Quality Tools
+# PHP Joia
 
 Compilado de ferramentas PHP para uso no processo de qualidade de código.
 
